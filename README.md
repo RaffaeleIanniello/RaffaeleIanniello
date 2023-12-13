@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raffaele Ianniello</h1>
 <h3 align="center">A Junior Full-Stack Developer from Italy</h3>
+<p>I finished a six-month intensive course at Epicode School, in which I obtained the certification to practice the profession of Full-Stack Developer. Through this Bootcamp I created real projects to immerse myself in the best possible way in this new reality!
+Thanks to my previous work experience, I have acquired excellent customer management skills, being available and authoritative at the same time. I have also acquired important skills regarding programming, both Front-End and Back-End, thus being able to guarantee dynamism in the work field and have a broad vision of coding.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raffaeleianniello&label=Profile%20views&color=0e75b6&style=flat" alt="raffaeleianniello" /> </p>
 
